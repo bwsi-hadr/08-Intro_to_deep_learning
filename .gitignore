@@ -1,3 +1,6 @@
 *.csv
 *.tsv
 **/*.ipynb_checkpoints/
+core.*
+epoch_checkpoints/*.pth
+training_images/
