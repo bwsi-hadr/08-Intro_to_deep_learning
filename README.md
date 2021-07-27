@@ -1,4 +1,4 @@
-# 11-Building_a_CNN
+# 10-Intro to Deep Learning and Image Recognition
 
 # Distribution Statement
 
