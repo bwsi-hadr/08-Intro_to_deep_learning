@@ -1,4 +1,4 @@
-# 10-Intro_to_deep_learning
+# 10-Intro to Deep Learning and Image Recognition
 
 # Distribution Statement
 
