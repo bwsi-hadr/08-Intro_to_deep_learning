@@ -3,4 +3,6 @@
 **/*.ipynb_checkpoints/
 core.*
 epoch_checkpoints/*.pth
-training_images/
+ladi.s3-us-west-2.amazonaws.com/
+pytorch-hub-cache/
+=*.*
